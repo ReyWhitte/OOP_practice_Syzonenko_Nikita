@@ -10,14 +10,16 @@
 
 ### Структура програми
 
-├── src
-│   ├── main
-│   │   └── Main.java
-│   └── test
-│       └── Test.java
-├── .gitignore
-├── LICENSE
-└── README.md
+```
+    ├── src
+    │   ├── main
+    │   │   └── Main.java
+    │   └── test
+    │       └── Test.java
+    ├── .gitignore
+    ├── LICENSE
+    └── README.md
+```
 
 ### Приклад роботи програми
 
