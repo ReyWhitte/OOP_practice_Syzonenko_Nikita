@@ -11,4 +11,4 @@
 
 ## Структура проекту:
 
-<img src="[https://your-image-link.com/image.png](https://github.com/ReyWhitte/OOP_practice_Syzonenko_Nikita/blob/TASK2_03.03.26/image/Picture1.png)" width="50%" alt="">
+![](image/Picture4.2.png)
