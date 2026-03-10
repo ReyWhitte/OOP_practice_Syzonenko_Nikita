@@ -12,3 +12,14 @@
 ## Структура проекту:
 
 ![](image/Picture4.2.png)
+
+<table>
+  <tr>
+    <td><img src="image/Picture4.2.png" alt="Опис фото 1" width="400"/></td>
+    <td><img src="image/Picture4.2.png" alt="Опис фото 2" width="400"/></td>
+  </tr>
+  <tr>
+    <td>Підпис до фото 1 (необов'язково)</td>
+    <td>Підпис до фото 2 (необов'язково)</td>
+  </tr>
+</table>
