@@ -15,7 +15,7 @@
 
 <table>
   <tr>
-    <td><img src="image/Picture4.2.png" alt="Опис фото 1" width="400"/></td>
+    <td><img src="image/Picture4.4.png" alt="Опис фото 1" width="400"/></td>
     <td><img src="image/Picture4.3.png" alt="Опис фото 2" width="400"/></td>
   </tr>
   <tr>
