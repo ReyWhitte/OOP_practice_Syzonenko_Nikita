@@ -19,6 +19,8 @@
 
 ### Завдання 3 ()
 
+[Посилання на репозиторій](https://github.com/ReyWhitte/OOP_practice_Syzonenko_Nikita/tree/TASK3_04.03.26)
+
 Ціль завдання:
 
 ### Завдання 4 ()
